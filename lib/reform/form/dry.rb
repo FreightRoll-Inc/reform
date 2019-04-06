@@ -1,5 +1,5 @@
 require "dry-validation"
-require "dry/validation/schema/form"
+require "dry/validation/schema/params"
 require "reform/validation"
 
 module Reform::Form::Dry
