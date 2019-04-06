@@ -1,3 +1,3 @@
 module Reform
-  VERSION = "2.3.0.rc1.fr"
+  VERSION = "2.3.0.rc1"
 end
